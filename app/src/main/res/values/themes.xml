@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Claseinterfaz" parent="Theme.AppCompat.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <!-- con esto llamo a lo que cree en colores y lo dejo global -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+
+        <!-- lo guardo por si acaso, lo traía en parent "Theme.Material3.DayNight.NoActionBar" -->
+    </style>
+
+    <style name="TextViewStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+
+    <style name="Theme.Claseinterfaz" parent="Base.Theme.Claseinterfaz" />
+</resources>

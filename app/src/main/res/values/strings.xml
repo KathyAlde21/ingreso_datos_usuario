@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">claseinterfaz</string>
+
+<!--    llamando a nombre usuario y contraseña de activity_main, para quede mas corto el nombre
+ le puse stringNombre como sNombre -->
+    <string name="sName">Nommbre de Usuario</string>
+    <string name="sPass">Contraseña</string>
+
+    <string name="sHintName">Escribe tu usuario</string>
+    <string name="sHintPass">Escribe tu contraseña</string>
+
+    <string name="sBtn">Entrar</string>
+<!--    con esto vuelvo a activity_main y cambio el dato de android:text"" por @string/palabranueva-->
+
+
+</resources>

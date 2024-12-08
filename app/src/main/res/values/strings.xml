@@ -12,5 +12,4 @@
     <string name="sBtn">Entrar</string>
 <!--    con esto vuelvo a activity_main y cambio el dato de android:text"" por @string/palabranueva-->
 
-
 </resources>

@@ -15,7 +15,5 @@
         <item name="android:textStyle">bold</item>
     </style>
 
-
-
     <style name="Theme.Claseinterfaz" parent="Base.Theme.Claseinterfaz" />
 </resources>
